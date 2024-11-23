@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tarea-JS-Semana11/static/css/main.90bf43e3.css",
+    "main.js": "/Tarea-JS-Semana11/static/js/main.3af9a7a4.js",
+    "static/js/453.200b9d5d.chunk.js": "/Tarea-JS-Semana11/static/js/453.200b9d5d.chunk.js",
+    "static/media/ia-aplicacion2.jpg": "/Tarea-JS-Semana11/static/media/ia-aplicacion2.652250e78a14e189398b.jpg",
+    "static/media/ia-introduccion3.jpg": "/Tarea-JS-Semana11/static/media/ia-introduccion3.d790c2ccdece853e6abc.jpg",
+    "static/media/ia-aplicacion1.jpg": "/Tarea-JS-Semana11/static/media/ia-aplicacion1.0380b473ec78a1d6ce66.jpg",
+    "static/media/ia-aplicacion3.jpg": "/Tarea-JS-Semana11/static/media/ia-aplicacion3.7dc7408d7950ccc944f4.jpg",
+    "static/media/ia-introduccion2.jpg": "/Tarea-JS-Semana11/static/media/ia-introduccion2.c24faa93b42e119e8895.jpg",
+    "static/media/ia-introduccion1.jpg": "/Tarea-JS-Semana11/static/media/ia-introduccion1.ff50776730f32188e8e2.jpg",
+    "index.html": "/Tarea-JS-Semana11/index.html",
+    "main.90bf43e3.css.map": "/Tarea-JS-Semana11/static/css/main.90bf43e3.css.map",
+    "main.3af9a7a4.js.map": "/Tarea-JS-Semana11/static/js/main.3af9a7a4.js.map",
+    "453.200b9d5d.chunk.js.map": "/Tarea-JS-Semana11/static/js/453.200b9d5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90bf43e3.css",
+    "static/js/main.3af9a7a4.js"
+  ]
+}
